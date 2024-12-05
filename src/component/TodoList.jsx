@@ -1,7 +1,7 @@
 
 /* eslint-disable react/prop-types */
 import TodoItem from './TodoItem';
-import "./css/TodoList.module.css";
+import "../css/TodoList.module.css";
 
 /**
  * TodoList 컴포넌트

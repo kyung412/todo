@@ -1,7 +1,7 @@
 
 /* eslint-disable react/prop-types */
 import { useState } from 'react';
-import style from "./css/TodoInput.module.css";
+import style from "../css/TodoInput.module.css";
 
 /**
  * TodoInput 컴포넌트
